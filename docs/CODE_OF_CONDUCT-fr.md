@@ -23,7 +23,7 @@ Exemples de comportements non acceptables :
   telles que les adresses physiques ou électroniques, sans permission explicite ;
 * toute conduite non professionnelle ou contraire à l'éthique.
 
-Les mainteneurs du projet ont le droit et la responsabilité de supprimer,
+Les mainteneurs du projet ont le droit et la responsabilité de supprimer
 modifier ou rejeter les commentaires, _commits_, code, modifications du wiki,
 questions et autres contributions qui ne respectent pas ce Code de Conduite,
 ou de bannir temporairement ou définitivement tout contributeur à la suite
