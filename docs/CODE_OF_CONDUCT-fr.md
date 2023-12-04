@@ -2,7 +2,7 @@
 
 En tant que contributeurs et responsables de ce projet, et dans l'intérêt
 de favoriser une communauté ouverte et accueillante, nous nous engageons à
-respecter toutes les personnes qui contribuent en rapportant des erreurs,
+respecter toutes les personnes qui contribuent par rapporter des erreurs,
 en postant des demandes de fonctionnalités nouvelles, en mettant à jour la
 documentation, en soumettant des _pull requests_ ou des correctifs, ainsi que
 toutes autres activités.
