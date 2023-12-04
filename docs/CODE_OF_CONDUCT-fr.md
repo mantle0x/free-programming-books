@@ -44,7 +44,7 @@ Les instances de comportement abusif, harcelant ou autrement inacceptable
 peuvent être signalés en contactant un responsable de projet à
 victorfelder at gmail.com. Toutes les plaintes seront examinées et étudiées
 et se traduiront par une réponse jugée nécessaire et appropriée aux
-circonstances. Les mainteneurs s'obligent à garder confidentielles les
+circonstances. Les mainteneurs s'engagent à garder confidentielles les
 informations de la personne qui remonte un incident.
 
 Ce Code de Conduite est adaptée du [Contributor Covenant][homepage],
